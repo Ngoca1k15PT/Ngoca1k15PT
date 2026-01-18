@@ -20,6 +20,8 @@
 - 🌸 Focus on **UI/UX & performance**
 - 🧁 Enjoy clean code & cute animations
 - ✨ Goal: build apps people love using every day
+- 🔌 Realtime communication with **Socket.IO**
+
 
 ---
 
