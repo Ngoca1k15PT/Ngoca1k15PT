@@ -27,9 +27,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,androidstudio,xcode,firebase&theme=light" />
-- 🔌 Realtime communication with **Socket.IO**
-
+<img src="https://skillicons.dev/icons?i=react,ts,js,androidstudio,firebase&theme=light" />
 </div>
 
 ---
