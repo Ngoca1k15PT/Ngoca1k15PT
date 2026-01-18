@@ -8,7 +8,7 @@
 💖 Love building beautiful & smooth mobile apps  
 🎀 Android • iOS • Cross-platform
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=ffb6c1&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Ngoca1k15PT&color=ffb6c1&style=flat" />
 
 </div>
 
@@ -46,12 +46,12 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&icon_color=ff9eb5" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Ngoca1k15PT&show_icons=true&theme=transparent&hide_border=true&icon_color=ff9eb5" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ngoca1k15PT&layout=compact&theme=transparent&hide_border=true" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=ff9eb5&fire=ff9eb5" />
+<img src="https://streak-stats.demolab.com?user=Ngoca1k15PT&theme=transparent&hide_border=true&ring=ff9eb5&fire=ff9eb5" />
 
 </div>
 
@@ -70,8 +70,8 @@
 ## 💌 Contact me
 
 - 💬 Feel free to reach out for collaboration  
-- 📧 Email: **your@email.com**
-- 🌸 Portfolio: **your-website.com**
+- 📧 Email: **ngoca1k15@gmail.com**
+- 🌸 Portfolio: **dinhhoangngoc.com**
 
 <div align="center">
 
