@@ -61,8 +61,8 @@
 
 | 📱 App | ✨ Description | 🧠 Tech |
 |---|---|---|
-| **Cute Todo App** | Simple & adorable task manager | Flutter, Firebase |
-| **Food Delivery UI** | Dribbble-inspired mobile UI | Flutter |
+| **Cute Todo App** | Simple & adorable task manager | React Native, Firebase |
+| **Food Delivery UI** | Dribbble-inspired mobile UI | React Native |
 | **Chat App** | Realtime chat with auth | React Native, Firebase |
 
 ---
