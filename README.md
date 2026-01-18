@@ -52,8 +52,6 @@
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Ngoca1k15PT&theme=transparent&hide_border=true&ring=ff9eb5&fire=ff9eb5" />
-
 </div>
 
 ---
