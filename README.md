@@ -70,7 +70,7 @@
 
 - 💬 Feel free to reach out for collaboration  
 - 📧 Email: **ngoca1k15@gmail.com**
-- 🌸 Portfolio: **dinhhoangngoc.com**
+- 🌸 Portfolio: **[dinhhoangngoc.com](https://dinhhoangngoc.com)**
 
 <div align="center">
 
